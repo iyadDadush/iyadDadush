@@ -1,7 +1,7 @@
 # 📘 README
 
 🌐 اللغات:
-🇸🇦 **العربية** | 🇺🇸 [English](README.md)
+🇸🇦 [العربية](README.ar.md) | 🇺🇸 [English](README.md)
 
 <div align="center">
 
