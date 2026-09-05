@@ -22,8 +22,7 @@
 I'm Iyad, a self-taught developer interested in building software across
 different layers of the technology stack.
 
-My interests range from modern web applications and mobile development
-to machine learning, low-level programming, automation, and visual design.
+My interests range from modern web applications and mobile development, low-level programming, automation, and visual design.
 
 I enjoy learning by building, experimenting with new technologies, and
 turning ideas into working projects.
@@ -36,10 +35,9 @@ turning ideas into working projects.
 | ------------------- | ----------------------------------- |
 | 🌐 Web Development  | Frontend, Backend, APIs             |
 | 📱 App Development  | Android, Desktop Applications       |
-| 🤖 Machine Learning | Python, TensorFlow, Data Processing |
-| ⚙️ Low-Level        | C, C++, Assembly                    |
+| ⚙️ Low-Level        | C, C++, rust                    |
 | 🗄️ Backend          | Databases, APIs, Infrastructure     |
-| 🎨 Design           | UI, Graphics, Visual Assets         |
+| 🎨 Design           | UI, Graphics, 3D models         |
 
 ---
 
@@ -107,6 +105,7 @@ turning ideas into working projects.
   <h3>💻 Software and Tools</h3>
 
   <p>
+      <a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-FB5425?logo=Blender&logoColor=white"/></a>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
       <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
